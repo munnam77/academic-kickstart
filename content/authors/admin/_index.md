@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Moazzem Hossain
 
 # Username (this should match the folder name)
 authors:
@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Research Assistant
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Hyogo
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include distributed Computer Vision, Machine Learning and Artificial Intelligence.
 
 interests:
 - Artificial Intelligence
@@ -27,15 +27,12 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BSc in Computer Science & Engineering
+    institution: International University of Business Agriculture & Technology
+    year: 2018
+   - course: Diploma in Computer Technology
+    institution: Comilla Polytechnic Institute
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -47,13 +44,13 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/munnam77
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/munnam77
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -70,6 +67,8 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi. My name is Moazzem. I am a budding machine learning & computer vision researcher. My main research interests lie at the intersection of Bayesian deep learning, approximate inference, and probabilistic models with intractable likelihoods.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I am currently working as a Research Assistant at University of Hyogo in Hyogo,Japan working with Prof. Syoji Kobashi and Dr. Saadia Binte Alam.
+
+Prior to that, I studied computer science at International University of Business Agriculture & Technology in Bangladesh, where I had a major emphasis on algorithm design and analysis, theoretical computer science, programming language theory, artificial intelligence, machine learning, and a minor emphasis on mathematics and statistics. I graduated with first-class honours in 2018.
