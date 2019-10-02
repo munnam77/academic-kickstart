@@ -28,7 +28,7 @@ interests:
 education:
   courses:
   - course: BSc in Computer Science & Engineering
-    institution: International University of Business Agriculture & Technology
+    institution: IUBAT
     year: 2018
    - course: Diploma in Computer Technology
     institution: Comilla Polytechnic Institute
