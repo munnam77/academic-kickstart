@@ -43,7 +43,7 @@ weight = 5
 
 # Background
 
-I am currently a PhD researcher in Politics at the University of Glasgow.
+I am currently working as a researcher in AMEC Lab at the University of Hyogo.
 
 In my PhD project, I’m trying to find out how the media in the UK portrays protest events. Most literature about the topic assumes that the messages of protests are marginalised by the media through routinized framing, i.e. a focus on disruption by and deviance of protesters. 
 In my project, I collected all newspaper articles published in selected UK newspaper outlets that mention a protest over the last 26 years (1992-2017) and analyse the content via framing analysis and supervised methods of computational text analysis.
